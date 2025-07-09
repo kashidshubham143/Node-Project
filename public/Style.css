@@ -1,0 +1,10 @@
+ body {
+            background-image: url(/herbg.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+img{
+    height: 70px;
+    width: 100px;
+}
