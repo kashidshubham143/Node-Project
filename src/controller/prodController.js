@@ -1,5 +1,4 @@
 let proModel = require("../models/prodModel.js")
-
 exports.homePage = ((req, res) => {
     res.render("home.ejs")
 })
