@@ -14,3 +14,4 @@ router.get("/update",prodCtrl.UpdateRender)
 router.post("/ProdUpdt",prodCtrl.UpdtProduct)
 router.get("/searchProduct",prodCtrl.searchProd)
 module.exports = router
+
